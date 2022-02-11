@@ -1,1 +1,1 @@
-vanillatictactoe.netlify.app
+https://vanillatictactoe.netlify.app
